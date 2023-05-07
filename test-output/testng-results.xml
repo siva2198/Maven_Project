@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-07T15:13:42 IST" name="DemoBlaze.DemoBlaze" finished-at="2023-05-07T15:13:56 IST" duration-ms="14235">
+    <groups>
+    </groups>
+    <test started-at="2023-05-07T15:13:42 IST" name="SignUP_flow" finished-at="2023-05-07T15:13:56 IST" duration-ms="14235">
+      <class name="DemoBlaze.DemoBlaze.Sign_Up_flow">
+        <test-method signature="a_start()[pri:0, instance:DemoBlaze.DemoBlaze.Sign_Up_flow@3e6ef8ad]" started-at="2023-05-07T15:13:42 IST" name="a_start" finished-at="2023-05-07T15:13:48 IST" duration-ms="5715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_start -->
+        <test-method signature="b_registeration()[pri:0, instance:DemoBlaze.DemoBlaze.Sign_Up_flow@3e6ef8ad]" started-at="2023-05-07T15:13:48 IST" name="b_registeration" finished-at="2023-05-07T15:13:53 IST" duration-ms="5325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_registeration -->
+        <test-method signature="c_quit()[pri:0, instance:DemoBlaze.DemoBlaze.Sign_Up_flow@3e6ef8ad]" started-at="2023-05-07T15:13:53 IST" name="c_quit" finished-at="2023-05-07T15:13:56 IST" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_quit -->
+      </class> <!-- DemoBlaze.DemoBlaze.Sign_Up_flow -->
+    </test> <!-- SignUP_flow -->
+  </suite> <!-- DemoBlaze.DemoBlaze -->
+</testng-results>
