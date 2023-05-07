@@ -47,7 +47,7 @@
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
-        </plugin>
+            </plugin>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
@@ -58,6 +58,7 @@
           <configuration>
 			  <suiteXmlFiles>
 				  <suiteXmlFile>SignUp.xml</suiteXmlFile>
+				  <suiteXmlFile>Add2Cart.xml</suiteXmlFile>
 			  </suiteXmlFiles>
 		  </configuration>
         </plugin>
